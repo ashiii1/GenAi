@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-<<<<<<< HEAD
-const nextConfig = {};
-=======
 const nextConfig = {
     
     images:{
@@ -9,6 +6,5 @@ const nextConfig = {
         unoptimized:true
     }
 };
->>>>>>> 4d88983 (completed)
 
 export default nextConfig;
